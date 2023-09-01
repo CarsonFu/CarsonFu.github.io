@@ -1,0 +1,21 @@
+---
+layout: project
+type: project
+image: img/micromouse/micromouse-square.jpg
+title: "Cards For Humanity"
+date: 2018
+published: true
+labels:
+  - Community
+  - Event Organization
+  - Playing Cards
+summary: "I founded a club sponsored by Punahou School that took me and my peers love for playing cards and channeled it as a way to give back to our community."
+---
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+</div>
+
+My club would meet to play various card games such as Trumps or Egyptian War and enjoy snacks that I would provide. The entrance fee would always be a short note of gratitude to a selected person in our community that we wanted to show appreciation for. An example of someone we wrote to was our beloved librarian Aunty Gabes, who was retiring. 
