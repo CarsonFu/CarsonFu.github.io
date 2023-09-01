@@ -4,7 +4,7 @@ type: essay
 title: "Javascript: a powerful web development tool"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
-published: true
+published: false
 labels:
   - Javascript
   - Web Development
