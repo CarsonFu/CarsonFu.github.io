@@ -24,89 +24,78 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "startDate": "2021",
+      "endDate": "Present"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Maemae Elementary School",
+      "position": "IT personnel",
+      "website": "https://www.maemaeschool.com/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Helped manage the school website, school computers and served as a resource for students and teachers with tech help questions",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain school website",
+        "Organize and manage school-issued teacher and student laptops"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Waiokeola Church Preschool",
+      "position": "Teacher's Assistant",
+      "website": "https://waiokeolachurchpreschool.org/",
+      "startDate": "2014",
+      "endDate": "2019",
+      "summary": "Supervised preschoolers as they learned and played during their summer fun program",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Watched over preschoolers to ensure their safety",
+        "Prepared snacks, learning material, and engaging activities"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Kaiser High School",
+      "website": "https://www.kaiserhighschoolhawaii.org/",
+      "position": "JV boys basketball assistant coach",
+      "startDate": "2022",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Assistant coach for the boys basketball team at Kaiser High School",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Teach kids fundamentals of basketball",
+        "Instill good sportmanship among other values in the youth of Hawaii"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Cards For Humanity Club",
+      "position": "Founder",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "I founded a club that combined a love for playing card games with giving back to people in our community to whom we are grateful for by writing short notes of appreciation as an entry fee each time are club gathered to play cards and eat food together.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "One person we wrote to was our beloved librarian at Punahou School who was retiring"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Punahou School President's Scholar",
+      "date": "2019-Present",
+      "awarder": "Punahou School",
+      "summary": "An award given to a handful of well-rounded students of Punahou School who excelled in academics while also giving back to their community in some way."
     }
   ],
   "references": [
