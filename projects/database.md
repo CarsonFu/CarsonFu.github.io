@@ -1,13 +1,12 @@
----
+
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Cards For Humanity"
-date: 2019
+title: "Record Database for ICS 212"
+date: 2022
 published: true
 labels:
-  - Community
-  - Event Organization
+  - C++
 summary: "I ran a club named Cards For Humanity that gathered to play cards and eat food. However, the entry ticket to come and play/eat was always"
 ---
 
