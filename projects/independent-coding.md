@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/white-crypto.png
 title: "Crypto Zombies"
 date: 2021
 published: true
@@ -18,20 +18,6 @@ summary: "I embarked on an independent coding study project where I learned the 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+Crypto Zombies is a web course designed to help beginners learn Solidity, a coding language associated with smart contracts and cryptocurrency. You learn the basics of Solidity by creating zombies, each with their own unique set of DNA. It was interesting to learn about how each zombie is unique and different numbers in its DNA corresponded to different features of the zombie that would change its appearance. I intend to continue the course until I complete the advanced portion.
 
 You can learn more at the [(https://cryptozombies.io/)].
