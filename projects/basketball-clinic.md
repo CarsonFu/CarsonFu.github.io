@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/white-fitrmbeach.jpeg
 title: "FitRM Basketball Clinic"
 date: 2015
 published: true
@@ -13,9 +13,7 @@ summary: "I helped run a technical skills basketball clinic for high school athl
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/fitrmbball.jpeg" class="img-thumbnail" >
 </div>
 
 Working with FitRM, I helped run a weekly basketball clinic for high school athletes. It was a challenge for me. I'm naturally an introverted person, so I had to step out of my comfort zone and be a leader for these young athletes. I had to learn to be confident, and be authoritative. I have played basketball my whole life, but I quickly learned it is much different to teach something even if you are comfortable and/or good at it.
