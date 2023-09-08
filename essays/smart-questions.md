@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Ask smart, be rewarded"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2023-09-07
 published: false
 labels:
   - Questions
@@ -13,45 +13,19 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Asking questions is hard
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+One of the most difficult things in life is to ask a question. You're taking a huge risk. Obviously, you don't know the answer. You're vulnerable: you don't want to sound stupid because you're asking a question about something you should've known. However, with maturity comes the realization that asking questions, while difficult, is essential. Michael Jordan did not come out of the womb dribbling a basketball. In the same sense, you aren't expected to just know things. The things we all know today initally stemmed from a curiosity that eventually blossomed into a question followed by an answer. The people who master the art of asking smart questions bloom more elegant answers.
 
-## What’s a smart question?
+## Smart questions in the context of coding
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Asking smart questions is a skill that is especially important in programming, as programming problems can have many different solutions in many different situations. Oftentimes programmers take to the web to aid them when they run into issues. There they can find databases holding information on the language they are working with. They can also come across websites such as StackOverflow: a website that serves as a forum where programmers post questions to be answered by other programmers.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+Here, if you want your question to be answered thoroughly, it is important to ask in a smart way. What's the smart way? The smart way consists of being clear, concise and concentrated. Your title should be clear and specific. The reader should know exactly what you are asking. Your question should be concise and to the point. The longer your question, the harder it is for the reader to follow along and can mess with its clarity. Finally, your question should be concentrated. Don't ask a question that asks another question, and another. Your question should elicit singular responses. These techniques makes your questions more effective.
 
-```
-Q: python date of the previous month
+In general, according to the short guide listed above, it is better to ask short, specific questions, rather than broad, open-ended ones because you can receive answers that actually answer your question. I found a good example of a smart question on StackOverflow. The person asking the question titled their post: "Create button to update in django posts with javascript fetch." https://stackoverflow.com/questions/74403118/create-button-to-update-in-django-posts-with-javascript-fetch
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
 
