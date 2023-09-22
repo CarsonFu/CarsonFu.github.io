@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Laying Foundation with Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2023-21-09
+date: 2023-09-21
 published: true
 labels:
   - Coding Standards
