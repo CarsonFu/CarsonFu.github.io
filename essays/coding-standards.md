@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ppl.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/coding.jpeg">
 
 ## Coding standards: the red squiggly line
 
