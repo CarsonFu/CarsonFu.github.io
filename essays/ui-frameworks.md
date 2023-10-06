@@ -29,7 +29,7 @@ What if instead of all that work, when you went to the store to buy paint, you b
    
    I replicated a webpage for a small clothing brand called someslight clothing and utilizing Bootstrap5 I was able to easily replicate the navbar and divide my page into three different columns as shown in the picture. I hope to get more acquainted with Bootstrap5 and html to be able to replicate more visibly appealing websites and even maybe make them semi-functionable.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/coding.jpeg">
+<img width="300px" class="rounded float-start pe-4" src="..img/Screen Shot 2023-10-03 at 11.23.23 PM.png">
 
 </body>
 
