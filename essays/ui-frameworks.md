@@ -24,8 +24,8 @@ What if instead of all that work, when you went to the store to buy paint, you b
 
 <body>
 
-	For ICS 314, we started off working with raw html, but then transitioned into a UI framework called Bootstrap5. Right away it felt confusing. We were still coding in the same language, but this time with a whole different world of vocabulary added. Using Bootstrap5, I was able to achieve layouts more effectively on webpages that would’ve been much more complicated using solely html. For example, I was able to adjust the margins and positioning of images and text a lot easier. It was also a lot easier to implement navigation bars and footers with built in classes for them.
-	I replicated a webpage for a small clothing brand called someslight clothing and utilizing Bootstrap5 I was able to easily replicate the navbar and divide my page into three different columns as shown in the picture. I hope to get more acquainted with Bootstrap5 and html to be able to replicate more visibly appealing websites and even maybe make them semi-functionable.
+   For ICS 314, we started off working with raw html, but then transitioned into a UI framework called Bootstrap5. Right away it felt confusing. We were still coding in the same language, but this time with a whole different world of vocabulary added. Using Bootstrap5, I was able to achieve layouts more effectively on webpages that would’ve been much more complicated using solely html. For example, I was able to adjust the margins and positioning of images and text a lot easier. It was also a lot easier to implement navigation bars and footers with built in classes for them.
+   I replicated a webpage for a small clothing brand called someslight clothing and utilizing Bootstrap5 I was able to easily replicate the navbar and divide my page into three different columns as shown in the picture. I hope to get more acquainted with Bootstrap5 and html to be able to replicate more visibly appealing websites and even maybe make them semi-functionable.
 
 </body>
 
