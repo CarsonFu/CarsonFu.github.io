@@ -20,42 +20,55 @@ labels:
 ## My experience with AI Frameworks
 
 Experience WODs e.g. E18:
+
 I used AI probably once for the experience WODs, and when I did I believe I asked it a question such as, "how do I change the padding of a div in react." This wasn't a very good question to ask and instead I looked at past modules to find my answer. 
 
 In-class Practice WODs:
+
 I did not use AI for these as I thought it was manageable to find an answer on my own via our previous class materials.
 
-In-class WODs
+In-class WODs:
+
 I used AI once for the Underscore WOD. I asked ChatGPT "what underscore function could return an average for an array of values" and it showed me which one I could use. I then asked it a more specific question asking it "how to use that function in my specific situation (after giving it context of the names of the objects and variables involved)." In this case AI was very useful and I learned that AI, or ChatGPT, can be extremely helpful in aiding with coding if you give it manageable, bitesize questions and then ask it to piece together those bites into a complete "meal."
 
-Essays
+Essays:
+
 I did not use AI for any essays since I like to write and prefer my writing to come from me.
 
-Final project
+Final project:
+
 I did not use AI for the final project yet as I think finding the answer on my own is very doable given the amount of time we have to work on the final project.
 
-Learning a concept / tutorial
+Learning a concept / tutorial:
+
 I did not use AI for this since the tutorials were very straightforward.
 
-Answering a question in class or in Discord
+Answering a question in class or in Discord:
+
 I did not use AI for this because I think that things like this should be put in our own words and thoughts.
 
-Asking or answering a smart-question
+Asking or answering a smart-question:
+
 I did not use AI for this because I think that things like this should also be put in our own words or thoughts.
 
-Coding example e.g. “give an example of using Underscore .pluck”
+Coding example e.g. “give an example of using Underscore .pluck”:
+
 As I mentioned earlier, I used AI/ChatGPT to help with coding Underscore functions in one of the WODs. I explained how it helped and why I did so in the previous paragaphs.
 
-Explaining code
+Explaining code:
+
 I did not use AI for this yet mainly because I hadn't thought of this. Although this may be a helpful thing to do in the near future.
 
-Writing code
+Writing code:
+
 As I mentioned earlier, I used AI/ChatGPT to help with coding Underscore functions.
 
-Documenting code
+Documenting code:
+
 I did not use AI for this yet mainly because I hadn't thought of this. Although I do think it could a useful thing to do in the future.
 
-Quality assurance
+Quality assurance:
+
 I did not use AI for this because I like to figure these things out on my own.
 
 ## Impact on learning
