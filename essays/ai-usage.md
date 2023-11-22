@@ -7,8 +7,8 @@ date: 2023-11-21
 published: true
 labels:
   - AI
-  -Education
-  -Software Engineering
+  - Education
+  - Software Engineering
 ---
 
 <img width="1000px" class="rounded float-start pe-4" src="../img/ai">
