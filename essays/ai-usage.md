@@ -11,13 +11,13 @@ labels:
   - Software Engineering
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/ai">
+<img width="1000px" class="rounded float-start pe-4" src="../img/ai.png">
 
-## <h1>Is AI a crutch or an enhancement to learning?</h1>
+## Is AI a crutch or an enhancement to learning?
 
   For ICS 314 I have used ChatGPT a couple of times. I have always thought it to be somewhat of a cheat; it encourages us to use less of our own intelligence when solving problems. However, as we progressed in the course I found that AI can be very helpful in aiding software engineering. I found that it can be used somewhat like a search engine to find answers to manageable/simple questions where you can then use your own critical thinking to put together those pieces in order to solve a bigger issue. Overall, I found AI not to be a cheat or a crutch, but an enhancement to my learning experience with software engineering.
 
-## <h1>My experience with AI Frameworks</h1>
+## My experience with AI Frameworks
 
 Experience WODs e.g. E18:
 I used AI probably once for the experience WODs, and when I did I believe I asked it a question such as, "how do I change the padding of a div in react." This wasn't a very good question to ask and instead I looked at past modules to find my answer. 
@@ -59,26 +59,26 @@ Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix
 Other uses in ICS 314 not listed
 I did not use AI for this because I like to figure these things out on my own.
 
-## <h1>Impact on learning</h1>
+## Impact on learning
 
   To be honest, I didn't use AI all that much in this class but I learned from the few times I did use it. I learned that it can be useful as a way to learn about concepts. I also found it extremely helpful with aiding coding. It can't always fully grasp the context of your code, but if you ask it questions in a way where context isn't needed you can take its answer and apply it to your code. This has been helpful in the few times that I've used AI to aid my coding experiences.
 
-## <h1>Practical uses</h1>
+## Practical uses
 
   AI definitely has a lot of practical uses. I have a lot of friends working in the software engineering industry and they use ChatGPT often to help them code and debug code. I also have used ChatGPT a lot in ICS 311 as it is very good at describing algorithms and choosing which ones are best to use in certain situations. I definitely think I will be using AI a lot once I start my career.
 
-## <h1>Challenges and opportunities</h1>
+## Challenges and opportunities
 
   I don't believe AI has presented a lot of challenges in my learning in the field of software engineering. On the contrary, I think it presents a huge opportunity in future education in software engineering. For example, since it is such a powerful teaching tool, it can be helpful to learn how to use it effectively. Maybe in the future, this class could integrate a section on how to effectively ask ChatGPT questions that will provide usable results.
 
-## <h1>Comparative analysis</h1>
+## Comparative analysis
 
   As I said in the previous paragraph, the use of AI in learning software engineering brings about a huge learning opportunity. However, I do think that although it is useful to use AI to learn about software engineering, maybe on timed assessments such as the WODs it shouldn't be allowed just because it hinders retention of material in my perspective. It encourages students to rely on it rather than their own understanding of topics.
 
-## <h1>Future considerations</h1>
+## Future considerations
 
   In the future, the role of AI in software engineering education could be more refined. It should be emphasized that it is a powerful tool and students should be taught how to use it, but they should also be strictly told when it is advisable to use it and when it is not for certain assignments. This is because for certain assignments AI is certainly capable of allowing the student to do it for them and that hinders learning.
 
-## <h1>Conclusion</h1>
+## Conclusion
 
   In conclusion, AI is an intriguing new tool that can turbocharge the learning of software engineering. However, with great power comes great responsibility. It must be used correctly. AI can do a lot of things, but it cannot think for you at the end of the day. You can't let AI do the thinking for you. You can let it teach you small concepts so that you can do the thinking on your own. Once you let AI think for you, it's almost as if you are giving it control. I believe that one day AI will take over the world because we will become to dependent on it. Luckily, today is not that day so let's use it to learn as much as we can while we still can!
