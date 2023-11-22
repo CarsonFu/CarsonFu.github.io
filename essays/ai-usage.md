@@ -55,8 +55,7 @@ As I mentioned earlier, I used AI/ChatGPT to help with coding Underscore functio
 Documenting code
 I did not use AI for this yet mainly because I hadn't thought of this. Although I do think it could a useful thing to do in the future.
 
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
-Other uses in ICS 314 not listed
+Quality assurance
 I did not use AI for this because I like to figure these things out on my own.
 
 ## Impact on learning
