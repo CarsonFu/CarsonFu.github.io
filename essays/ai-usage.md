@@ -11,7 +11,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/ai.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/ai.png">
 
 ## Is AI a crutch or an enhancement to learning?
 
