@@ -22,4 +22,6 @@ labels:
 
 ## Like clay, mold it to your fancy
 
-  Design patterns, like clay, are the raw material. It is your job to mold it to the way that you want it to be. In conclusion, we used two design patterns in this class, meteor-template-react, and meteor-form-react. However, there are many more design patterns and all are useful in given situations for saving time and making coding new projects easier.
+  Design patterns, like clay, are the raw material. It is your job to mold it to the way that you want it to be. In conclusion, we used two design patterns in this class, meteor-template-react, and meteor-form-react. However, there are many more design patterns and all are useful in given situations for saving time and making coding new projects easier. 
+  
+  Most design patterns are snippets of code, like algorithms or patterns that deal with object creation, or object relationships. Like little pieces of clay you can take these pieces and mold them into different parts for your finished piece: a full blown sculpture.
