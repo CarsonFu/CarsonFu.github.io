@@ -10,12 +10,14 @@ labels:
   - Software Engineering
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/ai.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/comic.png">
 
 ## Design patterns were introduced in middle school
 
-  Design patterns are reusable solutions to common problems that arise when sotware engineering. They make our life easier when we code, since they can provide a simple, easily manipulated foundation for when we start a new project/application. In class we used templates in Meteor such as meteor-template-react and meteor-form-react. 
+  Design patterns are reusable solutions to common problems that arise when sotware engineering. They make our life easier when we code, since they can provide a simple, easily manipulated foundation for when we start a new project/application. In class we used templates in Meteor such as meteor-template-react and meteor-form-react. These templates allowed us to easily create new applications and pages in our application that were functional, just not yet functional to our specific problem. 
+  Interestingly, it's almost as if we were introduced to design patterns in middle school! Using these templates reminded me of when we used to use Comic Life to make graphical, comic posters for middle school classes. When you create a new Comic Life document, there is a default template that your document starts off with. It has a title, comic boxes and some speech bubbles. Of course, all of these things can be used in your final document, however you can easily change the text and the size and position of the boxes to make the comic document more to your liking or fit your personal goals with the document. The boxes are also blank, and you can fill them in with your own graphics.
+  This is exactly what it is like when working with the design patterns we used in class. Meteor-template-react and meteor-form-react both are templates that give you a functional application and form. However, it is "blank" in the sense that you have to change the database and css to fit your needs and liking. 
 
-## Conclusion
+## Like clay, mold it to your fancy
 
-  In conclusion, AI is an intriguing new tool that can turbocharge the learning of software engineering. However, with great power comes great responsibility. It must be used correctly. AI can do a lot of things, but it cannot think for you at the end of the day. You can't let AI do the thinking for you. You can let it teach you small concepts so that you can do the thinking on your own. Once you let AI think for you, it's almost as if you are giving it control. I believe that one day AI will take over the world because we will become to dependent on it. Luckily, today is not that day so let's use it to learn as much as we can while we still can!
+  Design patterns, like clay, are the raw material. It is your job to mold it to the way that you want it to be. In conclusion, we used two design patterns in this class, meteor-template-react, and meteor-form-react. However, there are many more design patterns and all are useful in given situations for saving time and making coding new projects easier.
