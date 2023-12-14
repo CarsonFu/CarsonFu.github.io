@@ -1,4 +1,4 @@
-![image](https://github.com/CarsonFu/CarsonFu.github.io/assets/136384967/1e9156ce-6274-437d-93e7-6c4c03e30b54)---
+---
 layout: essay
 type: essay
 title: "Biggest takeaways about software engineering"
