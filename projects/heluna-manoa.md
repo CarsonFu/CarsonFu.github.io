@@ -27,4 +27,4 @@ We managed the project via Github, using issue driven project management. This i
 
 Before doing this project, I was doubting my ability to work in a team on projects like this. I lacked confidence. However, this project showed me that I am capable of doing this possibly for my profession. I think that with a little more independent learning and research, I can definitely be more comfortable with the idea of doing software development for my career. And, from now on, I think that's my goal.
 
-You can learn more at the [(https://cryptozombies.io/)].
+You can learn more about our project at the [(https://heluna-manoa.github.io/)].
