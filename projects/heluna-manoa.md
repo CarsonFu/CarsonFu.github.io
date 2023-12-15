@@ -15,7 +15,7 @@ summary: "I worked in a group project with three teammates from ICS 314 to creat
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/landing.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/landing.png" class="img-thumbnail" >
 </div>
 
 I worked on a team with Kurt Kimura, Cade Kane, Zeb Lakey and Ryan Seng. Our group's goal was to create a web application using Meteor that allows UH Manoa students to write course review for courses at UH Manoa. Not only did we work with Meteor, we also worked with MongoDB, as our application needed to have access to databases of professors, courses, and existing reviews. We each split up and did different parts/pages of the application, so my responsibility was creating the admin function pages. I created the pages that only exist for admin users that allow them to edit and remove a course listing.
